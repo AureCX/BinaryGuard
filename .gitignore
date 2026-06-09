@@ -1,0 +1,78 @@
+
+# This .gitignore file contains a lot of stuff to ignore, that way I am safe
+# I made it using this website: toptotal.com.
+
+### C ###
+# DONOTINCLUDE
+DONOTPUSH
+unit_tests
+BinaryGuard
+fake_ls
+a.out
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.rdr
+*.log
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Useless files
+*~
+#*.c#
+#*#
+.#*.c
+*.json
+*.gcda
+*.gcno
+*.py
+*.txt
+*.json
