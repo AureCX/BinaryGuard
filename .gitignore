@@ -8,6 +8,8 @@ DONOTPUSH
 unit_tests
 BinaryGuard
 fake_ls
+test.c
+programme_test
 a.out
 
 # Prerequisites

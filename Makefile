@@ -4,7 +4,7 @@
 ## makefile for the my_ls project
 ##
 
-CC    :=    clang -g
+CC    :=    clang
 
 UTILS	=	utils.c
 
